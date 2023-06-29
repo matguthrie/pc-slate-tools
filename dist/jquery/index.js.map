@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/jquery/index.ts"],"names":[],"mappings":";;;AAAa,QAAA,cAAc,GAAG,UAAC,aAAiC;IAC9D,kBAAkB;IAClB,IAAG,CAAC,aAAa,IAAI,CAAC,aAAa,CAAC,MAAM;QAAE,MAAM,IAAI,KAAK,CAAC,oCAAoC,CAAC,CAAC;IAElG,mBAAmB;IACnB,IAAI,QAAQ,GAAG,aAAa,CAAC,IAAI,EAAE,CAAC;IAEpC,kBAAkB;IAClB,OAAO,IAAI,CAAC,KAAK,CAAC,QAAQ,CAAC,CAAC;AAC9B,CAAC,CAAC"}
